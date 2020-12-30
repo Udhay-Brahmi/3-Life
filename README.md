@@ -1,2 +1,3 @@
 # 3-Life
-My first 2D game in Unity game engine.( Time taken = 15(days)x(6 hours)  in 2nd semester )
+My first 2D game in Unity game engine.( Time taken = 15(days)x(6 hours)  in 2nd semester ).The task in it is to escape from ISIS main centre bcoz one of our row agent betrayed us and reveal your identity.
+LOOKS CURIOUS, HURRY UP DOWNLOAD AND GIVE YOUR VIEWS ON YOUTUBE COMMENT SECTION...
