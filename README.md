@@ -5,7 +5,7 @@ Insted of downloading each file just follow thses steps.
 Requirement :- Git/Github
 1.) Clone > Copy the link
 2.) Move to desired file location
-3.) Type git clone 
+3.) Type git clone https://github.com/Udhay-Brahmi/3-Life.git
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ![Screenshot_2020-12-30-15-43-09-363_com TankControl](https://user-images.githubusercontent.com/72250606/103344969-1e6e9900-4ab6-11eb-935c-4ff931d09a96.png)
